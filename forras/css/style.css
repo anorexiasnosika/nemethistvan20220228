@@ -11,8 +11,9 @@ h1{
 
 h2{    
     margin-top: 10px; 
-    color: #414141;
-       
+    color: #416618;
+    border-color: #416618;
+
 }
 
 h3{    
@@ -32,5 +33,10 @@ td,th{
 
 thead>tr:first-child{    
     letter-spacing: 2px;    
+}
+
+
+img{ 
+    width: 100;
 }
 
